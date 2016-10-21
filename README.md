@@ -1,7 +1,7 @@
 µ - Microbe - 0.5.2
 ====================
 
-[![Microbe build status](https://travis-ci.org/sociomantic-tsunami/microbe.svg)](https://travis-ci.org)  [![Slack Status](https://microbejs-slackin.herokuapp.com/badge.svg)](https://microbejs-slackin.herokuapp.com)
+[![Microbe build status](https://travis-ci.org/sociomantic-tsunami/microbe.svg)](https://travis-ci.org)
 
 (for modern browsers and ie10+)
 
@@ -130,7 +130,6 @@ We gladly accept and review any pull-requests. Feel free! :heart:
 
 Otherwise, if you just want to talk, we are very easy to get a hold of!
 
-+ Slack:          [microbejs.slack.com](https://microbejs.slack.com)
 + Twitter:        <a href="https://www.twitter.com/microbejs" target="_blank">@microbejs</a>
 + Email:          [hello@m.icro.be](mailto:hello@m.icro.be)
 + Web:            <a href="http://m.icro.be/" target="_blank">http://m.icro.be/</a>
